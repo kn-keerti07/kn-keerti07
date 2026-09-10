@@ -101,11 +101,12 @@
 
 ---
 
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kn-keerti07&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kn-keerti07&theme=github-compact&hide_border=true" width="100%"/>
 </p>
-
 ---
 
