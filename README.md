@@ -105,19 +105,15 @@
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kn-keerti07&show_icons=true&theme=github_dark&hide_border=true" />
+  <img
+    src="https://ghchart.rshah.org/kn-keerti07"
+    alt="Keerti's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kn-keerti07&theme=github-dark&hide_border=true" />
-</p>
----
----
 
